@@ -1,4 +1,6 @@
-
+Program: Two sum
+Source of Description : Leetcode
+Submission Detail: 29 / 29 test cases passed.
 Given an array of integers, return indices of the two numbers such that they add up to a specific target.
 Source of description: Leetcode
 
